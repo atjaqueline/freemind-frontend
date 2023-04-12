@@ -1,0 +1,12 @@
+.info-banner{
+    /* height: 30vw; */
+    margin-top: .3rem;
+    margin-bottom: 1.5rem;
+}
+.info-banner p{
+    padding: 2rem;
+    height: 30vh;
+    text-align:center; 
+    vertical-align: middle;
+    display: table-cell; 
+  }

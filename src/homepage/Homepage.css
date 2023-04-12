@@ -1,0 +1,57 @@
+.Homepage {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-size: 0.9em;
+}
+
+.info-one {
+  height: 60vh;
+  margin-top: 0.3rem;
+  background-image: URL("https://cdn.stocksnap.io/img-thumbs/960w/young-woman_YRE7TNGEOW.jpg");
+}
+
+.info-two {
+  width: 50%;
+}
+
+.col-background {
+  background-color: rgb(181, 201, 181);
+}
+
+.info-container {
+  display: flex;
+}
+
+.p-welcome p {
+  padding: 2rem;
+  height: 45vh;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.info-two p {
+  padding: 2rem;
+  height: 60vh;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.col-recipes {
+  background-image: URL("https://cdn.stocksnap.io/img-thumbs/960w/cooking-ingredients_573HXXCQWB.jpg");
+  background-size: cover;
+}
+
+.col-todos {
+  background-image: URL("https://cdn.stocksnap.io/img-thumbs/960w/woman-tablet_ZMTW3XX4SO.jpg");
+  background-size: cover;
+}
+
+.info-one h2 {
+  font-size: 100px;
+  opacity: 20%;
+}

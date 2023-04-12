@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+html{
+  display: flex;
+}
+body {
+  flex: 1;
+  background-color: rgb(255, 253, 248);
+}
+
+.App {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;;
+  }
+
+a {
+  text-decoration: none;
+}

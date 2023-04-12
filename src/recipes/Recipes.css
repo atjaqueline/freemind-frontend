@@ -1,0 +1,71 @@
+.card {
+  margin: 5px;
+}
+
+.flex-box {
+  display: flex;
+  max-width: 40%;
+  margin: 30px;
+}
+
+.recipes h3 {
+  color: black;
+}
+
+.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.polaroid-img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.row {
+  margin-left: 8%;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: 50px;
+}
+
+.col {
+  margin-left: auto;
+  margin-right: auto;
+}
+.recipes-form {
+  max-width: 30%;
+  margin: auto;
+}
+
+button {
+  margin: 5px;
+}
+
+.recipe-img {
+  width: 70%;
+}
+ul {
+  list-style-type: none;
+}
+.recipe-instructions {
+  margin-bottom: 5rem;
+}
+.recipe-header {
+  text-align: left;
+  margin: 2rem;
+}
+.test {
+  display: flex;
+}
+/* .f-title{
+    font-family: 'Bebas Neue', cursive;
+} */
